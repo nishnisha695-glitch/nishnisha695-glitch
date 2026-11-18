@@ -1,16 +1,30 @@
-## Hi there 👋
 
-<!--
-**nishnisha695-glitch/nishnisha695-glitch** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 👋 Hi, I'm Your Nisha.K
 
-Here are some ideas to get you started:
+### 💻 Aspiring Developer | Tech Enthusiast
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🌱 Currently learning new technologies
+- 💡 Interested in software development
+- 🚀 Building projects and exploring new ideas
+- 🎯 Always eager to learn and grow
+
+### 🛠️ Languages & Tools
+
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,python,java,git,github,vscode" />
+</p>
+
+### 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight)
+
+### 🔥 GitHub Streak
+
+![GitHub Streak](https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight)
+
+### 📫 Connect With Me
+
+- GitHub: https://github.com/nishnisha695-glitch
+
+---
+⭐ Thanks for visiting my profile!
